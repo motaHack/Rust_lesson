@@ -1,6 +1,0 @@
-[package]
-name = "hello_world"
-version = "0.1.0"
-authors = ["motaHack <firstacom_y9emo@icloud.com>"]
-
-[dependencies]
